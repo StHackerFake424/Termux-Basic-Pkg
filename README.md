@@ -54,7 +54,7 @@ $ pkg install python2 -y
 # [ Termux Basic Pkg Installation2 ]
 
 <p align="center">
-      pkg install figlet && pkg install toilet && pkg install nano && pkg install pip && pkg install pip2 && pkg install requests && pip2 install requests && pip2 install mechanize
+      pkg install figlet && pkg install toilet && pkg install nano && pkg install wget && pkg install openssl && pkg install pip && pkg install pip2 && pkg install requests && pip2 install requests && pip install mechanize requests bs4 && pip2 install mechanize
 </p>
 
 ```
